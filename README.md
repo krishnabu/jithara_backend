@@ -1,3 +1,4 @@
+### **About this Project**
 A simple and modular backend API built using **Node.js** and **Express.js**.  
 It supports **job posting**, **retrieving job listings**, and includes **rate limiting** using `express-rate-limit` for enhanced API security.
 
