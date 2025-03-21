@@ -1,4 +1,6 @@
-What’s Working?
+A simple and modular backend API built using **Node.js** and **Express.js**.  
+It supports **job posting**, **retrieving job listings**, and includes **rate limiting** using `express-rate-limit` for enhanced API security.
+
 Authentication:
 Fully implemented JWT-based login/signup flow for secure user authentication.
 
